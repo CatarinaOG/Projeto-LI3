@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/OneDrive/1ano1sem/Cata/2ano2sem/LI3/grupo17/project_java" />
+    <option name="OPTION_SCOPE" value="public" />
+    <option name="OPTION_HIERARCHY" value="false" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="13.0.1" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
